@@ -4,3 +4,4 @@ Solution for :
               Cookies, 
               Insp3ct0r, 
               Scavenger Hunt
+Refer to PicoCTF.DOCX
