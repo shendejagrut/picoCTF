@@ -1,4 +1,4 @@
-# picoCTF
+# picoCTF Solution
 Solution for :
               Get A Head, 
               Cookies, 
